@@ -25,7 +25,7 @@ const int PADDING = 10;
 const float START_X = 50.f, START_Y = 50.f;
 
 // size
-const int GRID_SIZE = 5;
+const int GRID_SIZE = 3;
 Element board[GRID_SIZE][GRID_SIZE];
 
 // globals
